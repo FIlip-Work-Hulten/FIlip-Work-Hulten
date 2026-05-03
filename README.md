@@ -92,6 +92,8 @@
 
 ###
 <p>
-  Visit the official website:
-  <a href="https://ratcave.se/en/" target="_blank"></a>
+        Visit the official website:
+        <a href="https://ratcave.se/en/" target="_blank">
+            Rat Cave Official Site
+        </a>
 </p>
